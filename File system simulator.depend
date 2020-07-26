@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1536495935 source:d:\innopolis courses\low level and embedded programming\assignements\file system simulator_linux\file system simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537185009 source:d:\innopolis courses\low level and embedded programming\assignements\c codes\file system simulator_linux\file system simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539533995 source:d:\innopolis courses\low level and embedded programming\assignements\assignment1\c codes\file system simulator_linux\file system simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
